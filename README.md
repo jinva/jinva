@@ -28,7 +28,7 @@ I am a **electrician**, graduated from the Department of E-commerce, South China
 
 ### :microscope: Tech && Tools Preference
 
-![HTML5][shield_html5] ![CSS3][shield_css3] ![JavaScript][shield_javascript]  ![Sass][shield_sass] ![PHP][shield_php]  ![Git][shield_git] ![GitHub][shield_github] ![VS Code][shield_vs-code]  ![MySQL][shield_mysql] ![Redis][shield_redis] ![Linux][shield_linux] ![Docker][shield_docker]
+![HTML5][shield_html5] ![CSS3][shield_css3] ![Sass][shield_sass] ![JavaScript][shield_javascript] ![PHP][shield_php] ![Git][shield_git] ![GitHub][shield_github] ![VS Code][shield_vs-code] ![MySQL][shield_mysql] ![Redis][shield_redis] ![Linux][shield_linux] ![Docker][shield_docker]
 
 ### :mailbox: How to reach me:
 
@@ -62,7 +62,6 @@ I am a **electrician**, graduated from the Department of E-commerce, South China
 [shield_graphql]: https://img.shields.io/badge/-GraphQl-E10098?style=flat&logo=graphql&logoColor=ffffff
 [shield_haskell]: https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=ffffff
 [shield_html5]: https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff
-[shield_php]: https://img.shields.io/badge/-PHP-E34F26?style=flat&logo=php&logoColor=ffffff
 [shield_laravel]: https://img.shields.io/badge/-Laravel-E34F26?style=flat&logo=laravel&logoColor=ffffff
 [shield_hugo]: https://img.shields.io/badge/-Hugo-FF4088?style=flat&logo=hugo&logoColor=ffffff
 [shield_java]: https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff
@@ -76,6 +75,7 @@ I am a **electrician**, graduated from the Department of E-commerce, South China
 [shield_node-js]: https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=ffffff
 [shield_openstack]: https://img.shields.io/badge/-OpenStack-ED1944?style=flat&logo=openstack&logoColor=ffffff
 [shield_open-shift]: https://img.shields.io/badge/-Open%20Shift-EE0000?style=flat&logo=red-hat-open-shift&logoColor=ffffff
+[shield_php]: https://img.shields.io/badge/-PHP-2496ED?style=flat&logo=php&logoColor=ffffff
 [shield_perl]: https://img.shields.io/badge/-Perl-39457E?style=flat&logo=perl&logoColor=ffffff
 [shield_postgresql]: https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=ffffff
 [shield_python]: https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff
