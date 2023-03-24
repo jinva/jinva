@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I am a **Freelancer**, graduated from the Department of E-commerce, South China Normal University. I hope to be a **Full-stack** in the future.
 
-- :telescope: I’m focus on **My Job** .
+- :telescope: I’m focus on **something interesting** .
 - :seedling: I’m learning ![Laravel][shield_Laravel].
 - :books: I want to learn ![Python][shield_python] later.
 - :speech_balloon: Ask me about **How to use Github Pages to host a personal blog**.
