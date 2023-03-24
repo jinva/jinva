@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jinva&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_border=true&include_all_commits=true" width="480px">
 
-I am a **electrician**, graduated from the Department of E-commerce, South China Normal University. I hope to be a **Full-stack** in the future.
+I am a **Freelancer**, graduated from the Department of E-commerce, South China Normal University. I hope to be a **Full-stack** in the future.
 
 - :telescope: I’m focus on **My Job** .
 - :seedling: I’m learning ![Laravel][shield_Laravel].
